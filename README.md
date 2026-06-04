@@ -4,7 +4,7 @@ I work on .NET diagnostics, CLR profiling, runtime instrumentation, and develope
 
 I like to work on CLR, profilers, performance improvements, dump analysis, and debugging production .NET applications.
 
-I also spend a lot of time with AI-assisted development tools: Claude, Codex, Cursor, and custom agents. I was exploring practical coding and debugging agents before today's agentic development tools became common.
+I also spend a lot of time with AI-assisted development tools: Cursor, Claude, Codex, and custom agents. I was exploring practical coding and debugging agents before today's agentic development tools became common, with a focus on structured workflows, feedback loops, evidence gathering, and iterative validation.
 
 ## Projects
 
