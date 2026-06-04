@@ -9,7 +9,7 @@ I also spend a lot of time with AI-assisted development tools: Cursor, Claude, C
 ## Projects
 
 - [DumpMiner](https://github.com/dudikeleti/DumpMiner) - an early .NET dump analysis tool using ClrMD, with AI-assisted dump investigation experiments.
-- [Auto Debugger](https://github.com/dudikeleti/auto-debugger) - an early Semantic Kernel agents-era .NET debugging prototype, built before MCP and today's coding-agent workflows became common, with symbol lookup, source retrieval, runtime probes, HTTP repros, snapshots, diffs, and commits.
+- [Auto Debugger](https://github.com/dudikeleti/auto-debugger) - an early .NET debugging agent prototype, started before MCP and today's coding-agent workflows became common, with symbol lookup, source retrieval, runtime probes, HTTP repros, snapshots, diffs, and commits.
 
 These projects were built as practical experiments for their time. Some parts are not up to date with today's AI tooling, but they reflect the kind of debugging and developer-tooling problems I like to work on.
 
