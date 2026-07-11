@@ -1,18 +1,21 @@
-# Hi, I'm Dudi Keleti
+Hi, I'm Dudi Keleti.
 
 I work on .NET diagnostics, CLR profiling, runtime instrumentation, and developer tooling at Datadog.
 
-I like to work on CLR, profilers, performance improvements, dump analysis, and debugging production .NET applications.
+My main areas of interest are CLR internals, profilers, performance analysis, dump investigation, and production debugging for .NET applications. I enjoy digging into CLR and Windows internals, with a strong focus on performance analysis and pushing systems to their limits.
 
-I also spend a lot of time with AI-assisted development tools: Cursor, Claude, Codex, and custom agents. I was exploring practical coding and debugging agents before today's agentic development tools became common, with a focus on structured workflows, feedback loops, evidence gathering, and iterative validation.
+I also explore AI-assisted development workflows, with a focus on practical debugging and coding agents: runtime context, evidence gathering, feedback loops, structured investigation, and iterative validation.
 
 ## Projects
 
-- [DumpMiner](https://github.com/dudikeleti/DumpMiner) - an early .NET dump analysis tool using ClrMD, with AI-assisted dump investigation experiments.
-- [Auto Debugger](https://github.com/dudikeleti/auto-debugger) - an early .NET debugging agent prototype, started before MCP and today's coding-agent workflows became common, with symbol lookup, source retrieval, runtime probes, HTTP repros, snapshots, diffs, and commits.
+**DumpMiner**
+A .NET dump analysis tool built with ClrMD, focused on making dump investigation faster and more practical.
 
-These projects were built as practical experiments for their time. Some parts are not up to date with today's AI tooling, but they reflect the kind of debugging and developer-tooling problems I like to work on.
+**Auto Debugger**
+A .NET debugging agent prototype that combines symbol lookup, source retrieval, runtime probes, HTTP repros, snapshots, diffs, and commits.
+
+These projects reflect the kinds of developer-tooling problems I like to work on: making production debugging faster, more contextual, and more reliable.
 
 ## Writing
 
-I used to write about programming and debugging at [My Coding Place](https://mycodingplace.wordpress.com/).
+I used to write about programming and debugging at **My Coding Place**.
